@@ -32,3 +32,5 @@ An example template for building a custom [Coder](https://coder.com/docs) worksp
 To modify the image or workspace definition, simply push to `main` . GitHub actions will re-build the image and Coder will notify developers when an update is available for their workspace.
 
 Check out this video for an overview on how this works: https://youtu.be/BrZhBJtjkYk?t=104
+
+test
