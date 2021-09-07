@@ -25,7 +25,7 @@ An example template for building a custom [Coder](https://coder.com/docs) worksp
 
 1. You're done! 🎉 Create a new workspace from this template in the Ui, or create an [embeddable button/link](https://coder.com/docs/admin/templates) for others to clone.
 
-    - The "project repository" can also be this repository if you want the workspace to be defined in the same place. I often do this.
+    - The "project repository" can also be ssthis repository if you want the workspace to be defined in the same place. I often do this.
 
 ---
 
